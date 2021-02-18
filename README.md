@@ -1,6 +1,8 @@
 # Banking
 
-The banking application allows you to get the bank statement. You can also deposit and withdraw money from the account.
+The banking application is a simple example Spring boot application.
+
+It allows you to get the bank statement. You can also deposit and withdraw money from the account.
 
 ## Running environment
 
